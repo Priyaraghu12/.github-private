@@ -21,7 +21,6 @@ resources:
   - kind: repository
     selector:
       query: 'true'
-    specpath: '**/port.yml'
     port:
       entity:
         mappings:
