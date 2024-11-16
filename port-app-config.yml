@@ -1,4 +1,4 @@
-specPath: 'portmonorep/*/devinstance/port.yml'
+specPath: 'portmonorepo/*/devinstance/port.yml'
 resources:
   - kind: folder
     selector:
