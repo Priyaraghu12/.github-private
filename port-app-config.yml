@@ -1,3 +1,4 @@
+specPath: 'portmonorep/*/devinstance/port.yml'
 resources:
   - kind: folder
     selector:
