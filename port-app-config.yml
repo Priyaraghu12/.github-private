@@ -1,4 +1,3 @@
-specPath: '**/devinstance/port.yml'
 resources:
   - kind: folder
     selector:
